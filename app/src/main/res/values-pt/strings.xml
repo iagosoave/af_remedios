@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Controle de Medicamentos</string>
+    <string name="no_medications">Nenhum medicamento cadastrado</string>
+    <string name="add_medication">Adicionar Medicamento</string>
+    <string name="edit_medication">Editar Medicamento</string>
+    <string name="medication_name">Nome do Medicamento</string>
+    <string name="medication_description">Descrição</string>
+    <string name="consumption_time">Horário de Consumo</string>
+    <string name="select_time">Selecionar Horário</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Excluir</string>
+    <string name="delete_medication">Excluir Medicamento</string>
+    <string name="confirm_delete">Tem certeza que deseja excluir este medicamento?</string>
+    <string name="medication_added">Medicamento adicionado com sucesso</string>
+    <string name="medication_updated">Medicamento atualizado com sucesso</string>
+    <string name="medication_deleted">Medicamento excluído com sucesso</string>
+    <string name="error_adding">Erro ao adicionar medicamento</string>
+    <string name="error_updating">Erro ao atualizar medicamento</string>
+    <string name="error_deleting">Erro ao excluir medicamento</string>
+    <string name="error_loading">Erro ao carregar medicamentos</string>
+    <string name="enter_medication_name">Por favor, insira o nome do medicamento</string>
+    <string name="mark_taken">Marcar como tomado</string>
+    <string name="medication_reminder">Lembrete de Medicamento</string>
+    <string name="time_to_take">Hora de tomar</string>
+    <string name="notification_description">Notificações para lembretes de medicamentos</string>
+    <string name="language">Idioma</string>
+    <string name="manufacturer">Fabricante</string>
+    <string name="generic_name">Nome Genérico</string>
+</resources>

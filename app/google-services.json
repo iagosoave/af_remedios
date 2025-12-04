@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880703220978",
+    "project_id": "medicationcontrol-12345",
+    "storage_bucket": "medicationcontrol-12345.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880703220978:android:d4d41340c03009d77f746b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEM38jssLFDNkxrpYRIVAXcpTl-fsWKn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
